@@ -6,8 +6,8 @@
 ## Содержимое репозитория
 ### Используемые скрипты:
 основной скрипт сбора метаданных - 7_key_words_for_ussr.ipynb;
-скрипт для "разворачивания" поля keywords (исходный формат dictionary) в строки - flattering_the_keywords_column.ipynb;
-скрипт для объединения двух таблиц в итоговую - Merging main_table with key_values.ipynb.
+\nскрипт для "разворачивания" поля keywords (исходный формат dictionary) в строки - flattering_the_keywords_column.ipynb;
+/nскрипт для объединения двух таблиц в итоговую - Merging main_table with key_values.ipynb.
 
 ### Полученные данные
 Итоговая таблица - merged_table_with_key_values.xlsx.
