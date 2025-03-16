@@ -15,5 +15,5 @@
 
 скрипт для объединения двух таблиц в итоговую - [Merging main_table with key_values.ipynb](https://github.com/Gavvvrosh/NYT_archive_metadata_parsing_on_USSR/blob/main/Merging%20main_table%20with%20key_values.ipynb).
 
-### Полученные данные
+### Полученный источник данных:
 Итоговая таблица - [merged_table_with_key_values.xlsx](https://github.com/Gavvvrosh/NYT_archive_metadata_parsing_on_USSR/blob/main/merged_table_with_key_values.xlsx).
